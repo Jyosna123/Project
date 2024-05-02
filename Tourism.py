@@ -1,5 +1,5 @@
-import invalid_place_exception as ie
-import passenger as ps
+import Invalid_place_exception as ie
+import Passenger as ps
 class Tourism:
   def __init__(self):
     self.passenger_list=[]
