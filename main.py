@@ -1,4 +1,4 @@
-import tourism as ts
+import Tourism as ts
 import invalid_place_exception as ie
 tourism=ts.Tourism()
 n=int(input("Enter the number of registrations:\n"))
